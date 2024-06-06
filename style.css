@@ -1,0 +1,16 @@
+.responsive-website {
+    width: 100%;
+}
+
+.Main-heading {
+    color: #323f4b;
+    font-style: "Roboto";
+    font-size: 30px;
+    margin-top: 20vh;
+}
+
+.Description {
+    color: #7b8794;
+    font-style: "Roboto";
+    font-size: 20px;
+}
